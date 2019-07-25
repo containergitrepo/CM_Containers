@@ -1,0 +1,54 @@
+[INFO ] 2019-05-17 16:55:43.122 [restartedMain] Application - Starting Application on USBLRBKUMARRV1 with PID 22164 (C:\Users\bkumarrv\Migration_workspace\todoBoot-master\target\classes started by bkumarrv in C:\Users\bkumarrv\Migration_workspace\todoBoot-master)
+[INFO ] 2019-05-17 16:55:43.131 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-05-17 17:13:31.570 [restartedMain] Application - Starting Application on USBLRBKUMARRV1 with PID 19632 (C:\Users\bkumarrv\Migration_workspace\todoBoot-master\target\classes started by bkumarrv in C:\Users\bkumarrv\Migration_workspace\todoBoot-master)
+[INFO ] 2019-05-17 17:13:31.587 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-05-17 17:32:51.250 [restartedMain] Application - Starting Application on USBLRBKUMARRV1 with PID 16732 (C:\Users\bkumarrv\Migration_workspace\todoBoot-master\target\classes started by bkumarrv in C:\Users\bkumarrv\Migration_workspace\todoBoot-master)
+[INFO ] 2019-05-17 17:32:51.266 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-05-17 17:33:01.484 [restartedMain] Application - Started Application in 10.848 seconds (JVM running for 12.838)
+[INFO ] 2019-05-17 17:33:01.488 [restartedMain] Application - Application Started
+[INFO ] 2019-05-17 17:33:24.961 [http-nio-8080-exec-2] UserController - root
+[INFO ] 2019-05-17 17:33:25.569 [http-nio-8080-exec-3] UserController - root
+[INFO ] 2019-05-17 17:33:26.369 [http-nio-8080-exec-2] UserController - login
+[INFO ] 2019-05-17 17:34:20.560 [http-nio-8080-exec-3] UserController - register
+[INFO ] 2019-05-17 17:34:21.047 [http-nio-8080-exec-8] UserController - login
+[INFO ] 2019-05-17 17:34:38.963 [http-nio-8080-exec-4] UserController - /user/register
+[INFO ] 2019-05-17 17:34:39.231 [http-nio-8080-exec-5] UserController - register
+[INFO ] 2019-05-17 17:34:39.373 [http-nio-8080-exec-3] UserController - login
+[INFO ] 2019-05-17 17:34:52.952 [http-nio-8080-exec-2] UserController - /user/register
+[INFO ] 2019-05-17 17:34:52.975 [http-nio-8080-exec-10] UserController - register
+[INFO ] 2019-05-17 17:34:53.124 [http-nio-8080-exec-4] UserController - login
+[INFO ] 2019-05-17 17:35:00.242 [http-nio-8080-exec-7] UserController - login
+[INFO ] 2019-05-17 17:35:00.404 [http-nio-8080-exec-2] UserController - login
+[INFO ] 2019-05-17 17:35:08.561 [http-nio-8080-exec-5] AuthUserDetailsService - tr.com.jowl.model.User@c7959812
+[INFO ] 2019-05-17 17:35:08.641 [http-nio-8080-exec-5] MyAuthenticationSuccessHandler - determineTargetUrl: Bharath
+[INFO ] 2019-05-17 17:35:08.673 [http-nio-8080-exec-9] UserController - home
+[INFO ] 2019-05-17 17:53:47.348 [restartedMain] Application - Starting Application on USBLRBKUMARRV1 with PID 14372 (C:\Users\bkumarrv\Migration_workspace\todoBoot-master\target\classes started by bkumarrv in C:\Users\bkumarrv\Migration_workspace\todoBoot-master)
+[INFO ] 2019-05-17 17:53:47.371 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-05-17 17:54:01.657 [restartedMain] Application - Started Application in 14.761 seconds (JVM running for 16.817)
+[INFO ] 2019-05-17 17:54:01.661 [restartedMain] Application - Application Started
+[INFO ] 2019-05-17 17:54:32.820 [http-nio-8080-exec-6] UserController - root
+[INFO ] 2019-05-17 17:54:33.549 [http-nio-8080-exec-4] UserController - root
+[INFO ] 2019-05-17 17:54:36.468 [http-nio-8080-exec-4] UserController - root
+[INFO ] 2019-05-17 22:18:37.621 [restartedMain] Application - Starting Application on USBLRBKUMARRV1 with PID 22572 (C:\Users\bkumarrv\Migration_workspace\todoBoot-master\target\classes started by bkumarrv in C:\Users\bkumarrv\Migration_workspace\todoBoot-master)
+[INFO ] 2019-05-17 22:18:37.632 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-05-17 22:18:58.687 [restartedMain] Application - Started Application in 21.804 seconds (JVM running for 24.666)
+[INFO ] 2019-05-17 22:18:58.693 [restartedMain] Application - Application Started
+[INFO ] 2019-05-17 22:19:05.808 [http-nio-8080-exec-1] UserController - root
+[INFO ] 2019-07-24 15:31:48.494 [restartedMain] Application - Starting Application on USBLRBKUMARRV1 with PID 14236 (C:\Users\bkumarrv\Migration_workspace\todoBoot-master\target\classes started by bkumarrv in C:\Users\bkumarrv\Migration_workspace\todoBoot-master)
+[INFO ] 2019-07-24 15:31:48.514 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-07-24 15:32:09.643 [restartedMain] Application - Started Application in 22.185 seconds (JVM running for 24.367)
+[INFO ] 2019-07-24 15:32:09.650 [restartedMain] Application - Application Started
+[INFO ] 2019-07-24 15:33:12.611 [http-nio-8080-exec-1] UserController - root
+[INFO ] 2019-07-24 15:33:15.283 [http-nio-8080-exec-7] UserController - login
+[INFO ] 2019-07-24 15:35:09.630 [http-nio-8080-exec-10] AuthUserDetailsService - tr.com.jowl.model.User@c7959812
+[INFO ] 2019-07-24 15:35:09.819 [http-nio-8080-exec-10] MyAuthenticationSuccessHandler - determineTargetUrl: Bharath
+[INFO ] 2019-07-24 15:35:09.934 [http-nio-8080-exec-2] UserController - home
+[INFO ] 2019-07-24 15:36:22.202 [http-nio-8080-exec-8] TodoController - /task/save
+[INFO ] 2019-07-24 15:36:22.376 [http-nio-8080-exec-9] UserController - home
+[INFO ] 2019-07-24 15:36:50.783 [http-nio-8080-exec-6] TodoController - /task/operation: trash 
+[INFO ] 2019-07-24 15:36:50.942 [http-nio-8080-exec-5] UserController - home
+[INFO ] 2019-07-24 15:37:53.900 [http-nio-8080-exec-3] UserController - home
+[INFO ] 2019-07-24 15:39:02.907 [http-nio-8080-exec-10] UserController - login
+[INFO ] 2019-07-24 16:02:20.059 [http-nio-8080-exec-4] AuthUserDetailsService - tr.com.jowl.model.User@c7959812
+[INFO ] 2019-07-24 16:02:20.215 [http-nio-8080-exec-4] MyAuthenticationSuccessHandler - determineTargetUrl: Bharath
+[INFO ] 2019-07-24 16:02:20.288 [http-nio-8080-exec-1] UserController - home
